@@ -1,0 +1,16 @@
+export const colors = {
+  ink: '#2A2420',
+  parchment: '#F7F1E8',
+  paper: '#FFFCF7',
+  copper: '#B08A5A',
+  copperSoft: '#F4EBDD',
+  sage: '#6A5F55',
+  sageSoft: '#F0E8DC',
+  line: '#E7DDD0',
+  muted: '#7A7168',
+  placeholder: '#A89C90',
+  white: '#FFFcf8',
+  error: '#8E3B32',
+  overlay: 'rgba(42, 36, 32, 0.06)',
+  blush: '#E8D5C4',
+};
